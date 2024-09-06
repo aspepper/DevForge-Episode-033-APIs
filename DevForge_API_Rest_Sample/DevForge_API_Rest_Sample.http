@@ -1,0 +1,6 @@
+@DevForge_API_Rest_Sample_HostAddress = http://localhost:5082
+
+GET {{DevForge_API_Rest_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
